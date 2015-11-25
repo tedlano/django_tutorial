@@ -1,0 +1,3 @@
+Activating virtualenv
+	- source ./django-user/bin/activate
+
